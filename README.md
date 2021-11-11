@@ -1,6 +1,6 @@
-<div align="center">
+O<div align="center">
 
-## MrNobody505
+## 🔱 ASTOR-QUEEN 🔱
 
 <div align="center">
   <img src=IMG-20211111-WA0004.png>
@@ -9,7 +9,7 @@
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BgNLACgNYT59AiLAX9HFFK)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -31,27 +31,11 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### 📢 Announcement
+```Astor Queen is an Userbot for Whatsapp That allowing you to get done many tasks.
+This is not a Open-Source project.This is just a project that allow you to get deploy a bot.
+The user is responsible for all possible outcomes of misuse.```
 
-
-### ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
-## Developers
-  <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
-----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
-Base, Bug Fixes, Modules | 
-  
-    
-
 
 
