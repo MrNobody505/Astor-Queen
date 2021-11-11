@@ -34,7 +34,7 @@ bash <(curl -L https://t.ly/tHxh)
 ### 📢 Announcement
 ```Astor Queen is an Userbot for Whatsapp That allowing you to get done many tasks.
 This is not a Open-Source project.This is just a project that allow you to get deploy a bot.
-The user is responsible for all possible outcomes of misuse.```
+The user is responsible for all possible outcomes of misuse.
 
     
 
